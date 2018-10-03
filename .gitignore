@@ -1,3 +1,7 @@
 */.DS_Store
 training/src/__pycache__
+training_changed/src/__pycache__
 .idea/*
+dataset/*
+training_changed/*
+models/*
